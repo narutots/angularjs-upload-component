@@ -8,7 +8,7 @@ a uploadcomponent with angularjs1.X and angular-file-upload
 项目下载启动:<br>
 --
  >git clone https://github.com/narutots/angularjs-upload-component.git<br>
- >angularjs-upload-component<br>
+ >cd angularjs-upload-component<br>
  >npm install<br>
  >npm start<br>
  >http://localhost:8000/index.html#!/uploadTest<br>
