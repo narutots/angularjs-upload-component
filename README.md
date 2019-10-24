@@ -11,6 +11,7 @@ a uploadcomponent with angularjs1.X and angular-file-upload
  >angularjs-upload-component<br>
  >npm install<br>
  >npm start<br>
+ >http://localhost:8000/index.html#!/uploadTest<br>
  
 上传组件使用:<br>
 --
