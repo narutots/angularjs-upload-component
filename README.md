@@ -3,7 +3,7 @@ a uploadcomponent with angularjs1.X and angular-file-upload
 
 基于angularjs1.x和angular-file-upload的附件上传组件 
 ==================================================
-实例项目使用https://github.com/angular/angular-seed模板搭建
+实例项目使用模板搭建 https://github.com/angular/angular-seed   
 
 项目下载启动:<br>
 --
